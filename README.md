@@ -1,3 +1,7 @@
+# About 
+
+This dashboard provides a comprehensive and real-time overview of key performance indicators (KPIs) to empower data-driven decision-making. It features an intuitive layout that segments data into clear, actionable insights, enabling quick analysis of trends, performance metrics, and operational efficiency. Designed for optimal user experience, it ensures that stakeholders can easily track progress, identify areas for improvement, and effectively manage business operations. Perfect for executives and managers seeking to maintain a pulse on the organization's health and advance strategic objectives.
+
 # HR-Dashboard-MySQL-PowerBI
 
 ![image](https://user-images.githubusercontent.com/56026296/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png)
